@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <a href="https://www.cosasdelino.com/"><Header title="Tienda online de artículos de lino" /></a>
+        <Header title="Welcome to my app!" />
         <p className="description">
-          Esta web fomenta el uso del lino, aquí podrás comprar e informarte sobre todo tipo de productos hechos con lino.
+          Get started by editing 
       <code>pages/index.js</code>
         </p>
       </main>
